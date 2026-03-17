@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "1.5rem",
-  "bottomRow": 11,
+  "bottomRow": 12,
   "boxShadow": "none",
-  "buttonColor": "#3f3f46",
+  "buttonColor": "#22c55e",
   "buttonVariant": "PRIMARY",
   "displayName": "Icon button",
   "dynamicBindingPathList": [],
